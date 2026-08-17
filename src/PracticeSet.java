@@ -4,6 +4,7 @@ public class PracticeSet {
 
         System.out.println("Hello and welcome to git and github!");
         System.out.println("Learning Git branches!");
+        System.out.println("Practicing feature branches in Git!");
 
         for (int i = 1; i <= 5; i++) {
             System.out.println("i = " + i);
